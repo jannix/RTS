@@ -1,0 +1,2 @@
+Remplacer l'updateRect de chaque units par leur case.
+Ca evite le refresh d'une grosse stack inutilement.
